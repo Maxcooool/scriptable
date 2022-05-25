@@ -1,0 +1,1 @@
+const imageBackground = false; //对于自定义图片背景，设置为true；默认设置为false.const widgetPreview = "medium"const forceImageUpdate = true  //const url = "https://area.sinaapp.com/bingImg/"   //使用必应壁纸作为背景时，请注释下面//const url = res.data.picurl   //使用歌曲封面作为背景，，请注释上面const url = "http://p1.music.126.net/uarVFKgUlrI9Z1nr-50cAw==/109951162843608471.jpg"     //固定一张图片,这里我选用城南花已开的封面,图片不能太大，容易崩溃
